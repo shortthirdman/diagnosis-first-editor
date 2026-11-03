@@ -1,0 +1,9 @@
+{
+  "name": "diagnosis-first-editor",
+  "version": "1.1.0",
+  "description": "Rigorous, four-pass diagnostic editor that audits drafts for factual sourcing, synthetic surface habits, structural skeletons, and voice alignment.",
+  "author": "Swetank Mohanty (shortthirdman)",
+  "skills": [
+    "SKILL.md"
+  ]
+}
